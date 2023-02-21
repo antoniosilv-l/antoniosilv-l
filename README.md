@@ -9,7 +9,7 @@ Sou graduado em Análise e Desenvolvimento de Sistemas - UNIFACEMP da Bahia, ond
 <div align="center">
   <a href="https://github.com/Liralder">
   <img height="150m" src="https://github-readme-stats.vercel.app/api?username=antoniosilv-l&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniosilv-lr&layout=compact&langs_count=7&theme=graywhite"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniosilv-l&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
   
   ##
